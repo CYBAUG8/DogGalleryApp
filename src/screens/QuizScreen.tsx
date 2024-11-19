@@ -1,4 +1,3 @@
-// src/screens/QuizScreen.tsx
 import React, { useState } from 'react';
 import { View, Text, StyleSheet, Image } from 'react-native';
 import QuizOption from '../components/QuizOption';
